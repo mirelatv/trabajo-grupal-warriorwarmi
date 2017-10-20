@@ -1,38 +1,73 @@
-h1, h2, h3 {
+body{
+  margin: 50px 40px 30px 200px ;
+}
+h2{
+  text-align: center;
+  margin-top: 21px;
+}
+h1{
+  text-align: center;
+  margin-top: 44px;
+}
+.image{
+  margin-top: 20px;
+}
+.box{
+  width: 615px;
+}
+.titulo p {
+  text-align: center;
+  margin: 3px;
+  font-size: 18px;
+}
+.block p{
+  padding: 14px;
+}
+.block2 p{
+  padding: 38px;
+}
+.block3 p{
+  padding: 11px;
+}
+.foot p{
   text-align: center;
 }
-p{
-  font-size: 16px;
-  text-align: justify;
-  padding: 10px;
-
+span{
+  color: purple;
 }
+p{
+  font-size: 14px;
+  text-align: justify;
+}
+
 .titulo{
-width: 400px;
-height: 15px;
-background: gold;
-border: solid black;
-padding: 25px  80px 40px;
-text-align: center;
+  width: 542px;
+  height: 30px;
+  background: #ffc107;
+  border: 1px solid black;
 }
 .block{
-width: 150px;
-height: 450px;
-border: black solid;
-float: left;
+  width: 150px;
+  height: 450px;
+  border: 1px solid black;
+  float: left;
 }
-
 .block2{
-width: 200px;
+width: 241px;
 height: 450px;
-border: black solid;
+border: 1px solid black;
 float: left;
 }
-
 .block3{
-width: 200px;
-height: 450px;
-border: black solid;
-float:left;
-text-align: center;
+  width: 145px;
+  height: 450px;
+  border: 1px solid black;
+  float: left;
+}
+.foot{
+  width: 542px;
+  height: 30px;
+  background: #ffc107;
+  float: left;
+  border: 1px solid black;
 }
