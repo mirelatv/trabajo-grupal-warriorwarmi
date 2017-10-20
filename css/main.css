@@ -1,0 +1,30 @@
+.titulo{
+width: 370px;
+height: 15px;
+background: gold;
+border: solid black;
+padding: 25px  80px 40px;
+text-align: center;
+
+}
+.block{
+width: 80px;
+height: 80px;
+border: black solid;
+float: left;
+padding: 20px 40px 200px 40px;
+}
+.block2{
+width: 80px;
+height: 80px;
+border: black solid;
+float: left;
+padding: 20px 40px 200px 40px;
+}
+.block3{
+width: 80px;
+height: 80px;
+border: black solid;
+float:left;
+padding:20px 40px 200px 40px;
+}
